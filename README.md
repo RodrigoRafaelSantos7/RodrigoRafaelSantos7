@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Santos</h1>
 <h3 align="center">Computer Science and Engineering student at NOVA School of Science and Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigorafaelsantos7&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigorafaelsantos7" /> </p>
+<p align="mid"> <img src="https://komarev.com/ghpvc/?username=rodrigorafaelsantos7&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigorafaelsantos7" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.wallpapersafari.com/33/41/5nCvx3.gif">
 
 - 🌱 I’m currently learning **Java, C, HTML and Python**
