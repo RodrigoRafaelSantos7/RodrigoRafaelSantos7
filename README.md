@@ -32,7 +32,7 @@ I'm a student and indie full-stack developer building my version of the digital 
 ![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoRafaelSantos7&show_icons=true&theme=gruvbox)
   
 #
-
+<!---
 <details>
    <summary><h3>👨‍💻 My Coding Journey</h3></summary>
       I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself the dynamic world of full-stack development, where I delve into technologies such as React with Vite and Next.js, constantly exploring innovative ways to bring ideas to life through code. My fascination with software engineering goes beyond the classroom, driving me to seek a deeper understanding of the intricacies of building robust and scalable systems. Whether it's architecting efficient solutions or diving into the latest development frameworks, I am always eager to stay at the forefront of technological advancements. While I thrive in the digital realm, I find balance by embracing the natural beauty around me. During my free time, you'll likely find me at the beach, chasing the thrill of catching waves. The ocean not only serves as a refreshing escape but also fuels my creativity, providing a unique perspective that I bring into my work. Driven by a desire to create meaningful impact, I am on a constant quest to refine my skills and contribute to the ever-evolving landscape of technology. From coding challenges to real-world applications, I approach each opportunity with curiosity and a determination to push boundaries.
@@ -48,3 +48,4 @@ I'm a student and indie full-stack developer building my version of the digital 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 </div>
+-->
