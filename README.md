@@ -1,6 +1,6 @@
 # 🏄‍♂️ Rodrigo Santos
 
-**`Digital Craftsman (Developer/Engineer/Student)`**
+**`Digital Craftsman (Computer Scientist/Student)`**
 
 I'm a student and indie full-stack developer building my version of the digital world one step at a time.
 
