@@ -27,8 +27,8 @@ I'm currently studying [Computer Science](https://www.di.fct.unl.pt/en) at [Univ
 ---
 
 ### 🚀 About Me
-- **Academic Focus:** Theoretical Computer Science—complexity theory, cryptography, and pseudorandomness
-- **Crafting Digital Experiences:** Enthusiastic about creating innovative and efficient full-stack solutions
+- **Academic Focus:** Theoretical Computer Science — complexity theory and cryptography
+- **Crafting Digital Experiences:** Enthusiastic about creating innovative and efficient web solutions
 - **Continuous Learner:** Always eager to learn new technologies and improve my craft
 
 ---
