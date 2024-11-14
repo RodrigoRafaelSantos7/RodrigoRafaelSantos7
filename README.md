@@ -2,7 +2,7 @@
 
 **`Digital Craftsman | Computer Science Enthusiast | Full-Stack Developer`**
 
-I'm currently studying [Computer Science](https://www.di.fct.unl.pt/en) at [Universidade Nova de Lisboa](https://www.unl.pt/en), diving deep into theoretical computer science with a passion for complexity theory, cryptography, and pseudorandomness. I thrive on building meaningful digital experiences and enjoy solving intricate problems through code.
+I'm currently studying [Computer Science](https://www.di.fct.unl.pt/en) at [Universidade Nova de Lisboa](https://www.unl.pt/en), diving deep into theoretical computer science with a passion for cryptography and cybersecurity. I thrive on building meaningful digital experiences and enjoy solving intricate problems through code.
 
 ---
 
