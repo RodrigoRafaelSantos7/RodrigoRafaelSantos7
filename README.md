@@ -2,7 +2,7 @@
 
 **`Digital Craftsman | Computer Science Student | Software Engineer`**
 
- I’m Rodrigo, a software engineer and entrepreneur based in Lisbon. I’m the founder of Quantum, where we develop innovative webapplications that empower individuals online presence on their own terms. I’m also a computer science student at the [Universidade Nova de Lisboa](https://www.unl.pt/en).
+ I’m Rodrigo, a software engineer and entrepreneur based in Lisbon. I’m the founder of Quantum, where we develop innovative web applications that empower individuals online presence on their own terms. I’m also a computer science student at the [Universidade Nova de Lisboa](https://www.unl.pt/en).
  
 ---
 
