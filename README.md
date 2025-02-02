@@ -1,9 +1,15 @@
-# 🏄‍♂️ Rodrigo Santos
+# 🪽 Rodrigo Santos
 
-**`Digital Craftsman | Computer Science Student | Software Engineer`**
+**`Computer Science Student | Software Engineer | Web Developer`**
 
- I’m Rodrigo, a software engineer and entrepreneur based in Lisbon. I’m the founder of Quantum, where we develop innovative web applications that empower individuals online presence on their own terms. I’m also a computer science student at the [Universidade Nova de Lisboa](https://www.unl.pt/en).
- 
+                           I’m Rodrigo Santos; I’m a front-end engineer && design engineer && UX
+                           engineer && web developer && computer science student from Lisbon,
+                           Portugal. I got my start Coding For The ’Net in 2020, using Dreamweaver to
+                           make websites for school projects. I’ve worked professionally on the web
+                           since 2023, mostly through freelance gigs. Currently, I’m in the final
+                           year of my Bachelor’s degree in Computer Science and Engineering at the
+                           New University of Lisbon.
+                           
 ---
 
 ### 📊 Stats
