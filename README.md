@@ -20,7 +20,7 @@ I'm a freelance full-stack developer and computer science and engineering studen
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
----
+#
 
 ![ghost](https://github.com/user-attachments/assets/9d855457-73a6-4b02-b5b7-914ee69d1a64)
 <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" fill="#211E20"  viewBox="0 0 20 20">
