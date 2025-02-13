@@ -24,4 +24,4 @@ I'm a freelance full-stack developer and computer science and engineering studen
 
 ### 📊 Stats
 
-![Rodrigo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigosantos7&show_icons=true&theme=gruvbox)
+![Rodrigo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoRafaelSantos7&show_icons=true&theme=gruvbox)
