@@ -1,5 +1,5 @@
-<img src="https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif">
+Founder and CEO of [Quantum Studio](https://www.quantumstudio.pt/)
 
-### 📊 Stats
+I build things. Known mostly for Typescript adjacent stuff.
 
-![Forrest's GitHub stats](https://github-readme-stats-rodrigorafaelsantos7s-projects.vercel.app/api?username=RodrigoRafaelSantos7&show_icons=true&theme=gruvbox)
+Checkout my [LinkedIn](https://www.linkedin.com/in/rodrigosantos7/), or [my site I guess](https://rodrigosantos.dev)
