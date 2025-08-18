@@ -1,4 +1,4 @@
-Founder and CEO of [Quantum Studio](https://www.quantumstudio.pt/)
+AI Software Engineer @ [Upgraide](https://www.upgraide.ai/).
 
 I build things. Known mostly for Typescript adjacent stuff.
 
