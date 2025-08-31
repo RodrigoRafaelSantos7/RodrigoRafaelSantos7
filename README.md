@@ -1,4 +1,4 @@
-AI Software Engineer @ [Upgraide](https://www.upgraide.ai/).
+Software Engineer @ [Upgraide](https://www.upgraide.ai/).
 
 I build things.
 
